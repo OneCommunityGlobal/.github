@@ -1,6 +1,6 @@
 # One Community Global 🌱
 
-[![Social Banner]([https://onecommunityglobal.org/wp-content/uploads/2022/06/HD-Horizontal-Logo-OCG-Header-640x188-1.jpg](https://onecommunityglobal.org/wp-content/uploads/2023/05/One-Community-Horizontal-Homepage-Header-980x140px-2.png))](https://onecommunityglobal.org/)
+[![Social Banner](https://onecommunityglobal.org/wp-content/uploads/2025/04/White-OC-Header.jpg)](https://onecommunityglobal.org/)
 
 [One Community Global](https://onecommunityglobal.org/) is a 501(c)(3) nonprofit creating open-source solutions for sustainable living. We're a global team of volunteers building replicable systems for housing, food, energy, education, and more — all shared for **The Highest Good of All**.
 
