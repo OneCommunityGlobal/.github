@@ -6,7 +6,7 @@
 
 One of our current online focus is the Highest Good Network®, a full-stack web application designed to facilitate collaboration, time tracking, and transparent impact reporting. It's designed to empower sustainable projects and open-source communities by providing tools for labor and materials tracking, social architecture planning, educational program management, and governance systems.
 
-You can read more about us on [our blog for weekly updates](https://onecommunityglobal.org/highest-good-network/).
+You can read more about us on [our blog for more information](https://onecommunityglobal.org/highest-good-network/).
 
 ## Help Build the Highest Good Network®
 In a world where the lines between work and play are blurring, we're building tools to manage and scale collaborative, mission-driven projects.
