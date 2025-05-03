@@ -2,7 +2,7 @@
 
 [![Social Banner](https://raw.githubusercontent.com/OneCommunityGlobal/.github/refs/heads/main/profile/header.jpg)](https://onecommunityglobal.org/)
 
-[One Community Global](https://onecommunityglobal.org/) is a 501(c)(3) nonprofit creating open-source solutions for sustainable living. We're a global team of volunteers building replicable systems for [housing](https://www.onecommunityglobal.org/highest-good-housing/), [food](https://www.onecommunityglobal.org/highest-good-food/), [energy](https://www.onecommunityglobal.org/highest-good-energy/), [education](https://www.onecommunityglobal.org/highest-good-education/), and more — all shared for **The Highest Good of All**.
+[One Community Global](https://onecommunityglobal.org/) is a 501(c)(3) nonprofit creating open-source solutions for sustainable living. We're a global team of volunteers building replicable systems for [housing](https://www.onecommunityglobal.org/highest-good-housing/), [food](https://www.onecommunityglobal.org/highest-good-food/), [energy](https://www.onecommunityglobal.org/highest-good-energy/), [education](https://www.onecommunityglobal.org/highest-good-education/), and more — all [open-source shared](https://www.onecommunityglobal.org/open-source) for **The Highest Good of All**.
 
 One of our current online focus is the [Highest Good Network](https://www.onecommunityglobal.org/highest-good-network/)®, a full-stack web application designed to facilitate collaboration, time tracking, and transparent impact reporting. It's designed to empower sustainable projects and open-source communities by providing tools for labor and materials tracking, social architecture planning, educational program management, and governance systems.
 
